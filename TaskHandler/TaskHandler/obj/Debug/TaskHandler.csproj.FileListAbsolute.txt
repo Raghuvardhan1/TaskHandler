@@ -1,0 +1,12 @@
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\bin\Debug\TaskHandler.exe.config
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\bin\Debug\TaskHandler.exe
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\bin\Debug\TaskHandler.pdb
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\bin\Debug\QueueDataStructuresLib.dll
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\bin\Debug\QueueDataStructuresLib.pdb
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\obj\Debug\TaskHandler.csprojAssemblyReference.cache
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\obj\Debug\TaskHandler.csproj.CoreCompileInputs.cache
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\obj\Debug\TaskHandler.csproj.CopyComplete
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\obj\Debug\TaskHandler.exe
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\obj\Debug\TaskHandler.pdb
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\bin\Debug\TaskHandler.exe.CodeAnalysisLog.xml
+C:\Users\320067504\source\repos\TaskHandler\TaskHandler\bin\Debug\TaskHandler.exe.lastcodeanalysissucceeded

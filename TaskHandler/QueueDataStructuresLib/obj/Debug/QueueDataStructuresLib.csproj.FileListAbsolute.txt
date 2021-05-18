@@ -1,0 +1,8 @@
+C:\Users\320067504\source\repos\TaskHandler\QueueDataStructuresLib\bin\Debug\QueueDataStructuresLib.dll
+C:\Users\320067504\source\repos\TaskHandler\QueueDataStructuresLib\bin\Debug\QueueDataStructuresLib.pdb
+C:\Users\320067504\source\repos\TaskHandler\QueueDataStructuresLib\obj\Debug\QueueDataStructuresLib.csprojAssemblyReference.cache
+C:\Users\320067504\source\repos\TaskHandler\QueueDataStructuresLib\obj\Debug\QueueDataStructuresLib.csproj.CoreCompileInputs.cache
+C:\Users\320067504\source\repos\TaskHandler\QueueDataStructuresLib\obj\Debug\QueueDataStructuresLib.dll
+C:\Users\320067504\source\repos\TaskHandler\QueueDataStructuresLib\obj\Debug\QueueDataStructuresLib.pdb
+C:\Users\320067504\source\repos\TaskHandler\QueueDataStructuresLib\bin\Debug\QueueDataStructuresLib.dll.CodeAnalysisLog.xml
+C:\Users\320067504\source\repos\TaskHandler\QueueDataStructuresLib\bin\Debug\QueueDataStructuresLib.dll.lastcodeanalysissucceeded
